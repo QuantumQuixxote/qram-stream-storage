@@ -8,7 +8,8 @@
 - Quantum RAM based Storage
 
 # Future Components
-- Quantum Merkle Tree Indexes 
+- Quantum Merkle Tree Indexers 
+- Quantum Bloom Filter Crawlers
 
-# qram-stream-storage
-A Qiskit class to perform memory retrieval and storage on arbitrary data, and perform a Grover search on the results. 
+# Current Implementation
+A Qiskit class to perform memory retrieval and storage on arbitrary data, and perform a Grover search. 
